@@ -6,7 +6,7 @@ Challenges are broken down into levels. Each level assumes you have some base su
 
 ## Level 1
 
-<> TBD
+[comment]: # TBD
 
 ## Level 2
 
