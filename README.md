@@ -6,28 +6,28 @@ Challenges are broken down into levels. Each level assumes you have some base su
 
 ## Level 1
 
-[comment]: # TBD
+<!--- TBD --->
 
 ## Level 2
 
-<> TBD
+<!--- TBD --->
 
 ## Level 3
 
-<> TBD
+<!--- TBD --->
 
 ## Level 4
 
-<> TBD
+<!--- TBD --->
 
 ## Level 5
 
-<> TBD
+<!--- TBD --->
 
 ## Level 6
 
-<> TBD
+<!--- TBD --->
 
 ## Level 7
 
-<> TBD
+<!--- TBD --->
