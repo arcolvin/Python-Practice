@@ -7,8 +7,6 @@
 '''
 This program will print a number of waves then exit.
 
-It was programmed and tested in Thonny
-
 Input:
 User input will be collected via in program prompts
 using the input function.

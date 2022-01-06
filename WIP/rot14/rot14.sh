@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-python3 -c 'alph="abcdefghijklmnopqrstuvwxyz ."; msg="ekefs msddadnmbzsoesmfdkmouow.n"; ct = [alph[(alph.index(x) + 14) % 28] for x in msg]; [print(x,end="") for x in ct]; print("")'
