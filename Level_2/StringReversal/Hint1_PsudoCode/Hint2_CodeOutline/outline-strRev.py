@@ -34,8 +34,5 @@ for l in string:
     # Code to add each letter to the front of the reversed string
     # TODO ADD CODE HERE
 
-    # TODO REMOVE PASS ONCE ABOVE CODE IS IMPLEMENTED
-    pass
-
 # Print final String
 print(rev)

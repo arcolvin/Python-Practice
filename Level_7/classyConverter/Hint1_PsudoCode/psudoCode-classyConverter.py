@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-
-# Author: Adam Colvin
+# Author: Adam
 # Date: December 30, 2021
 # Version: 0.5
 

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-#Author: Adam Colvin
-#Date: December 17, 2021
+#Author: <NAME>
+#Date: <DATE>
 #Version: 1.0
 
 '''

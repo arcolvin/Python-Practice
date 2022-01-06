@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Author: Adam Colvin
+#Author: Adam
 #Date: December 22,2021
 #Version: 1.0
 
@@ -71,8 +71,5 @@ for x in msg:
     # 'append' encoded / decoded character to output string
     # TODO ADD CODE HERE
 
-    # TODO Remove this pass statement once above code in place
-    pass
-    
 # print final output string
 print(out)

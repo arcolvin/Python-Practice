@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-#Author: Adam
-#Date: Dec 15, 2021
+#Author: <NAME>
+#Date: <DATE>
 #Version: 1.0
-
 
 '''
 This program will take a provided string and reverse it

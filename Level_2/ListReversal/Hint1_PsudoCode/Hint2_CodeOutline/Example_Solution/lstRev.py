@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author: Adam Colvin
+#Author: Adam
 #Date: December 17, 2021
 #Version: 1.0
 

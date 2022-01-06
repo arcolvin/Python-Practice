@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author: Adam Colvin
+#Author: Adam
 #Date: December 17, 2021
 #Version: 1.0
 
@@ -33,9 +33,6 @@ for i in lst:
 
     # Code to insert each list item at the front of the reversed list
     # TODO ADD THIS CODE
-
-    # TODO REMOVE THIS PASS ONCE ABOVE CODE IS IMPLEMENTED
-    pass
     
 # Print final list
 print(rev)
