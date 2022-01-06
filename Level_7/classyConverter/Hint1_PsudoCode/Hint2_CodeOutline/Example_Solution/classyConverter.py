@@ -1,36 +1,52 @@
 #!/usr/bin/env python3
-
 # Author: Adam Colvin
 # Date: December 30, 2021
 # Version: 1.1
-
 
 '''
 This program is an example of how to use classes and
 object orened programming!
 
-It will combine programs we have already worked with
-with object orented concepts.
+Prompt:
+Build a program that utilizes classes to store multiple converted values for a given number.
 
-User input: Users will enter menu options and numbers as requested
-            through input functions
+The class should have paramaters for each of the stored bases (Base 2, 8, 10, and 16)
+This class should have methods for the 4 basic mathematical opperations (+, -, *, and /).
+This would mean that <class1> + <clas2> should return a class object that contains the
+results of that operation in all common bases (bases 2, 8, 10, 16)
 
-Expected Output: Program will print messages depending on the
-            program's state. One common state will be to print out
-            the numbers entered or calculated by the program
+There should be a method to update the classes' stored number. the user should be able
+to specify the base of the entered number.
 
-Fixes in this version:
-    * Added additional comments
-    * Implemented class all call instead of explicitly setting up print command again
-    * Code formatting improvements
+There should be a method to print all stored values.
 
-Known issues:
-    None
+Optional stretch Goal:
+Implement logging via the logging module
 
-Future Planned Improvements:
-    * Add in other magic dunder methods?
-    * Make program more fluid to use rather than the clunky implementation
-      currently in place. 
+
+Input:
+User will enter numbers and their bases as well as menu items
+
+Output:
+Program will return a list of stored numbers or the 
+result of basic mathemetical opperations
+
+---
+
+Helpful resources:
+
+Python Classes:
+https://www.w3schools.com/python/python_classes.asp
+
+Classes or Functions First?:
+https://stackoverflow.com/questions/28365304/python-declaration-order-classes-or-functions-first
+
+Magic / Dunder methods:
+https://www.section.io/engineering-education/dunder-methods-python/#73-other-operators
+
+Magic / Dunder Methods 2:
+https://www.tutorialsteacher.com/python/magic-methods-in-python
+
 '''
 
 # Required imported modules
