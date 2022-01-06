@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-#Author: Adam Colvin
-#Date: Jan 5, 2022
+#Author: <NAME>
+#Date: <DATE>
 #Version: 1.0
-
 
 '''
 This program should create a basic menu experience for the user
@@ -38,29 +37,6 @@ Make a selection - (A,B,C, or Q): a
 Option 1 has run!
 '''
 
-again = True
-
-while again == True:
-    print('What would you like to do?')
-    print('A - Option 1')
-    print('B - Option 2')
-    print('C - Option 3')
-    print('Q - quit')
-
-    selection = input('Make a selection - (A,B,C, or Q): ').lower()
-
-    if selection == 'a':
-        print('Option 1 has run!')
-
-    elif selection == 'b':
-        print('Option 2 has run!')
-
-    elif selection == 'c':
-        print('Option 3 has run!')
-
-    elif selection == 'q':
-        print('ENDING PROGRAM!')
-        again = False
-
-    else:
-        print('Invalid Selection! Please Try Again!')
+###################
+# START CODE HERE #
+###################
