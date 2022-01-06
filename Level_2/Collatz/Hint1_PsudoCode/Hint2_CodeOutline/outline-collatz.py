@@ -31,16 +31,24 @@ Ex. What Number to Process?: 6
 Done!
 '''
 
+# Ask for user to input a number (Integer)
 num = int(input('What Number to Process?: '))
 
+# Setup Loop to process the number
 while num != 1:
+    # add logic to determine if a number is even or odd
+    # perform math based on result of even or odd
     if (num % 2) == 0:
-        num = num // 2
-        
+        # TODO ADD CODE HERE
+        pass 
+
     else:
-        num = (num * 3) + 1
+        # TODO ADD CODE HERE
+        pass
         
+    # Print the number at the end of each loop to verify the process is working
     print(num)
     
 
+# Print done statement when program finishes
 print('Done!')
