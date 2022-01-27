@@ -49,3 +49,5 @@ Connecting to external resources over a network
 ## Level 7
 
 Utilizing self built classes, list comprehensions, and any other Python tool or module not previously mentioned
+
+Hi Adrian
