@@ -12,7 +12,7 @@ Build a program that utilizes classes to store multiple converted values for a g
 
 The class should have paramaters for each of the stored bases (Base 2, 8, 10, and 16)
 This class should have methods for the 4 basic mathematical opperations (+, -, *, and /).
-This would mean that <class1> + <clas2> should return a class object that contains the
+This would mean that <class1> + <class2> should return a class object that contains the
 results of that operation in all common bases (bases 2, 8, 10, 16)
 
 There should be a method to update the classes' stored number. the user should be able
@@ -111,7 +111,7 @@ class number:
             self.b16 = hex(int(num, int(base)))
 
         except TypeError:
-            # If unexpected data is ecountered catch the errorand set all
+            # If unexpected data is encountered catch the errorand set all
             # parameters to 0
             print('Type Error')
             print('Unexpected input for provided base')
@@ -127,7 +127,7 @@ class number:
             self.b16 = hex(0)
 
         except:
-            # if unexpectd error is encountered capture error
+            # if unexpected error is encountered capture error
             # log entered paramiters and set number to 0
             print('Unknown Error')
             print('Setting numbers to 0')
