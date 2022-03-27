@@ -1,4 +1,4 @@
-Reccomend:
+Recommend:
 https://patorjk.com/software/taag/#p=display&f=Standard
 
 a b c d e f g h

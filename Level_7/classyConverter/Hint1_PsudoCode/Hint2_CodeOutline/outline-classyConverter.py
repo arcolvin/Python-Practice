@@ -12,7 +12,7 @@ Build a program that utilizes classes to store multiple converted values for a g
 
 The class should have paramaters for each of the stored bases (Base 2, 8, 10, and 16)
 This class should have methods for the 4 basic mathematical opperations (+, -, *, and /).
-This would mean that <class1> + <clas2> should return a class object that contains the
+This would mean that <class1> + <class2> should return a class object that contains the
 results of that operation in all common bases (bases 2, 8, 10, 16)
 
 There should be a method to update the classes' stored number. the user should be able
