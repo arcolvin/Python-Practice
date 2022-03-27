@@ -20,31 +20,41 @@ Provide a C: -6
 
 Solutions are: 1,-3
 '''
+import math
 
 # Collect a, b, and c from the user
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
-c = int(input("Enter c: "))
+a =
+b =
+c =
 
 # if a is 0 print "No Solution" and end program
-if a == 0:
+if ## ADD LOGIC HERE ##:
     print("No Solution Possible")
     exit()
 
 # Solve for the discriminant
-    # If 4*a*c > b*b print "No Solution" and exit
+    # If 4*a*c is greater than b*b print "No Solution" and exit
     # otherwise finish solution
-if (4 * a * c) > (b * b):
+
+if ## ADD LOGIC HERE ##
     print("No Solution Possible")
     exit()
 
 else:
-    disc = sqrt()
+    disc = ## ADD MATH HERE ##
 
 # Save solution 1 with + solution
+x1 = ## ADD MATH HERE ##
 
-# Save solution 2 wirh - solution
+# Save solution 2 with - solution
+x2 = ## ADD MATH HERE ##
 
 # compare solution 1 and 2
 # If solution 1 == solution 2 print only one answer
+if ## ADD LOGIC HERE ##
+    print(## PRINT STUFF HERE ##)
 # else print both solutions
+else:
+    print("Your solutions are:")
+    print(## PRINT STUFF HERE ##)
+    print(## PRINT STUFF HERE ##)
