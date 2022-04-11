@@ -1,0 +1,21 @@
+Try making waves with points at both sides instead of just the side away from the terminal edge (Example code WIP):
+    *
+   ***
+  *****
+   ***
+    *
+    *
+   ***
+  *****
+   ***
+    *
+Try for a Zig-Zagg (Example code WIP)
+    *
+     *
+      *
+     *
+    *
+   *
+  *
+   *
+    *
